@@ -45,7 +45,7 @@ nav span:nth-of-type(even) {
 }
 
 /* ESERCIZIO 10) Crea un selettore per selezionare il link "Torna su" che trovi a fondo pagina nell'angolo in basso a destra */
-a:last-of-type {
+ .mb-3:last-of-type {
     text-decoration:line-through;
 }
 
